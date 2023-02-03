@@ -1,3 +1,4 @@
+#worker prob Bedir karaabalı
 import random,threading,time
 
 #semaphore = threading.Semaphore()
